@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
     "lite-server": "^2.6.1"
   },
+  "devDependencies": {},
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
@@ -16,12 +20,10 @@
     "type": "git",
     "url": "git+https://github.com/JamieAndrews7202/Portfolio-Project.git"
   },
-  "author": "Jamie Andrews",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JamieAndrews7202/Portfolio-Project/issues"
   },
   "homepage": "https://github.com/JamieAndrews7202/Portfolio-Project#readme"
 }
-
-
